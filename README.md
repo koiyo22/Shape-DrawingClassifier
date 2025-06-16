@@ -1,0 +1,2 @@
+## A Shape Drawing Classifier
+Define any 3 shapes of your liking, and start drawing samples to train the KNN model on shape classification. Click the 'Predict current shape' button to view the model's predictions after sufficient training! :DD
